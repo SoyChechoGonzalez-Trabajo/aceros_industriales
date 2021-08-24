@@ -21,6 +21,7 @@ gap: 20px;
 }
 .slider-slide p {
   white-space: normal;
+  text-transform: initial;
 }
 .slider-bullet-list{
   margin-block-start: 0;

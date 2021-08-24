@@ -1,6 +1,7 @@
 :root{
   --primary: #053672;
   --light1: #fff;
+  font-family: 'Heebo', sans-serif;
 }
 *{	margin: 0;
 	padding: 0;
