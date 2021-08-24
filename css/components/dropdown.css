@@ -1,0 +1,12 @@
+.dropdown{
+    position: absolute;
+    display: block;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    background: red;
+    float:inherit;
+}
+.dropdown ul li:hover .dropdown{
+    display: block;
+}

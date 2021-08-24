@@ -1,0 +1,30 @@
+.menu-toggle{
+  border: none;
+  font-size: 32px;
+  background: none;
+  color: var(--light1);
+}
+.hero_btn{
+display: flex;
+}
+.btn{
+  text-transform: uppercase;
+  border: none;
+  padding-inline: 2vh;
+  padding-block: 2vh;
+  border-radius: 4px;
+  /* font-family: var(--primary-font); */
+  font-weight: 700;
+  text-align: center;
+  border: 2px solid #000;
+  max-inline-size: 300px;
+}
+.btn_primary{
+  background: transparent;
+  color: #000;
+}
+.btn_second{
+  background: linear-gradient(90.45deg, #053672 0.28%, #720505 40.76%, #424242 76.33%, #053672 99.61%);
+  color: #fff;
+  }
+
