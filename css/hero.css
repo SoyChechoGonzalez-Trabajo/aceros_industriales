@@ -28,12 +28,12 @@
   justify-content: center;
   gap: 30px;
 }
-.message{
+.slider{
   text-transform: uppercase;
   font-family: 'Heebo', sans-serif;
   text-align: center;
 }
-.message p{
+.slider p{
   text-transform: lowercase;
 }
 @media screen and (min-width: 1024px){
